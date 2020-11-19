@@ -1,0 +1,20 @@
+{
+  "name": "zdzbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "axios-fileupload": "0.0.1",
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "mysql": "^2.18.1",
+    "rpc-websockets": "^7.4.6",
+    "spawn-promise": "^0.1.8"
+  }
+}
